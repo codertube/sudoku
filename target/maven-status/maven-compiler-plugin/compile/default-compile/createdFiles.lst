@@ -1,0 +1,4 @@
+com\tryouts\sudoku\SudokuMatrix.class
+com\tryouts\sudoku\SudokuException.class
+com\tryouts\sudoku\SudokuFileReader.class
+com\tryouts\sudoku\SudokuApp.class
