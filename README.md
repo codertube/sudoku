@@ -6,8 +6,8 @@ Project was coded using Java 8.
 
 To run, 
 1. create directory named 'Sudoku' in C: drive.
-2. copy sudoku code zip file and sudoku_input.txt file into 'Sudoku' folder.
-3. run sudoku_validate.bat file passing sudoku_input.txt as argument using following command 
+2. copy sudoku code zip file (clone code and get it as zip file) and sudoku_input.txt file (src\main\resources) into 'Sudoku' folder.
+3. run sudoku_validate.bat file (src\main\resources) passing sudoku_input.txt as argument using following command 
  
     sudoku_validate.bat C:/Sudoku/sudoku_input.txt 
 
